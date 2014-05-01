@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="package" version="3.0">
+	<name>Portugues Portugal Language Pack</name>
+	<packagename>pt-PT</packagename>
+	<version>3.3</version>
+    <creationDate>Maio 2014</creationDate>
+    <author>Comunidade Joomla Portugal</author>
+	<authorEmail>geral@joomlapt.com</authorEmail>
+	<authorUrl>www.joomlapt.com</authorUrl>
+	<packager>Comunidade Joomla Portugal</packager>
+    <description><![CDATA[
+        Arquivos de Idioma em Português Portugal para o Joomla! 3<br/>
+        Copyright 2005 - 2014 Open Source Matters. Todos os Direitos Reservados. Copyright Comunidade Joomla Portuguesa. Todos os Direitos Reservados.<br/>
+        De acordo com termo de licenciamento de <a href="http://www.opensourcematters.org" target="_blank">OpenSourceMatters</a> e <a href="http://www.joomla.org" target="_blank">Joomla!</a> todos os arquivos de idioma devem ser licenciados sob a <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank"> licença GNU/GPL (v.2.0)</a>. Esta tradução está licenciada sob esta licença. Se encontrar algum erro de digitação, traduções incorretas ou se deseja sugerir melhorias, participe no fórum <a href="http://www.joomlapt.com">JoomlaPT</a> da tradução ou junte-se a nós no <a href="https://www.transifex.com/projects/p/j3corelang/language/pt_PT/" target="_blank">transifex Joomla! </a> e contribua diretamente com o projeto.<br/><br/>
+    ]]>
+	</description>
+
+	<files>
+		<file type="language" client="site" id="pt-PT">site_pt-PT.zip</file>
+		<file type="language" client="administrator" id="pt-PT">admin_pt-PT.zip</file>
+	</files>
+	
+	<updateservers>
+        <server type="collection" priority="1" name="Accredited Joomla! Translations">https://raw.githubusercontent.com/codigoaberto/Joomla3_pt-PT_lang/svn/pt_PT.xml</server>
+    </updateservers>
+	
+</extension>
