@@ -16,8 +16,8 @@
 	</description>
 
 	<files>
-		<file type="language" client="site" id="pt-PT">site_pt-PT.zip</file>
-		<file type="language" client="administrator" id="pt-PT">admin_pt-PT.zip</file>
+		<file type="language" client="site" id="pt-PT">site_pt_PT.zip</file>
+		<file type="language" client="administrator" id="pt-PT">admin_pt_PT.zip</file>
 	</files>
 	
 	<updateservers>
