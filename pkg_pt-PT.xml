@@ -21,7 +21,7 @@
 	</files>
 	
 	<updateservers>
-        <server type="extension" priority="1" name="Portuguese Portugal Language Pack">https://raw.githubusercontent.com/codigoaberto/Joomla3_pt-PT_lang/svn/pt_PT.xml</server>
+        <server type="package" priority="1" name="Portuguese Portugal Language Pack">https://raw.githubusercontent.com/codigoaberto/Joomla3_pt-PT_lang/svn/pt_PT.xml</server>
     </updateservers>
 	
 </extension>
